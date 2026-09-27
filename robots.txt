@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://a.qiyooo.cn/sitemap.xml
